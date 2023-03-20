@@ -1,4 +1,4 @@
-# -Artifical-Intelligence-in-Digital-Signal-Analysis-and-its-Applications-HW2
+# Artifical-Intelligence-in-Digital-Signal-Analysis-and-its-Applications-HW2
 
 ## Canny Edge Detector
 ### Step 1. Gaussian filter
